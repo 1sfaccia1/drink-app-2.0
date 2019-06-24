@@ -1,1 +1,21 @@
+// this file uses the rest client extension in vs code to test the drinks api
+
+
+// search by drink
 https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita
+
+###
+
+https://www.thecocktaildb.com/api/json/v1/1/random.php
+
+###
+
+ 
+https://www.thecocktaildb.com/api/json/v1/1/filter.php?c=Ordinary_Drink
+
+
+###
+
+https://www.thecocktaildb.com/api/json/v1/1/filter.php?c=Cocktail
+
+###
